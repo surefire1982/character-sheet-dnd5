@@ -3,10 +3,10 @@
 var ddcs = ddcs || {};
 
 /** Your Application ID from the Google APIs Console. */
-ddcs.APP_ID = '17452280709';
+ddcs.APP_ID = '266396909516';
 
 /** Your application's Client ID from the Google APIs Console. */
-ddcs.CLIENT_ID = '17452280709-3sqfpshkc46u6egp12ampsn1sj0un5c8.apps.googleusercontent.com';
+ddcs.CLIENT_ID = '266396909516-1ni4juj1eirt7sfkt7kesvsd2g8jdm26.apps.googleusercontent.com';
 
 ddcs.realtimeDoc = null;
 
